@@ -13,7 +13,7 @@
 					<key>url</key>
 					<string>http://192.168.2.184/scc.ipa</string>
 				</dict>
-				<dict>
+				<dict> 
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>needs-shine</key>
