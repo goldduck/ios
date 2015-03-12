@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.2.184/scc.ipa</string>
+					<string>http://192.168.6.98/scc.ipa</string>
 				</dict>
 				<dict> 
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.2.184/114x114.png</string>
+					<string>http://192.168.6.98/114x114.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,13 +27,13 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.2.184/57x57.png</string>
+					<string>http://192.168.6.98/57x57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.primeton.emp299</string>
+				<string>com.primeton.emp2991</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
