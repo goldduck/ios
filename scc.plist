@@ -13,7 +13,7 @@
 					<key>url</key>
 					<string>http://192.168.6.98:8080/scc.ipa</string>
 				</dict>
-				<dict> 
+				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>needs-shine</key>
@@ -27,19 +27,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.6.98:8080/57x57.png</string>
+					<string>http://42.192.168.6.98:8080/57x57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.primeton.emp299</string>
+				<string>com.primeton.ayapp.test9</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>scc</string>
+				<string>普元应用门户</string>
 			</dict>
 		</dict>
 	</array>
