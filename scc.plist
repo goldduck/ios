@@ -21,7 +21,7 @@
 					<key>url</key>
 					<string>http://192.168.6.224:8080/114x114.png</string>
 				</dict>
-				<dict>
+				<dict> 
 					<key>kind</key>
 					<string>display-image</string>
 					<key>needs-shine</key>
