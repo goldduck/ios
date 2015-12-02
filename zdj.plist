@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://42.121.56.140:8180/default/114x114.png</string>
+					<string>http://42.121.56.140:8180/default/114px.png</string>
 				</dict>
 				<dict> 
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://42.121.56.140:8180/default/57x57.png</string>
+					<string>http://42.121.56.140:8180/default/57px.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
